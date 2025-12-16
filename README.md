@@ -1,0 +1,2 @@
+# dea-c01-iot-json-schema-evolution-cataloging-using-aws-glue-cost-optimized
+This repository demonstrates a cost-effective solution for cataloging evolving IoT JSON data stored in Amazon S3. It uses AWS Glue Data Catalog for metadata indexing and AWS Glue Schema Registry to manage schema evolution, enabling analytics and reporting without provisioning persistent compute resources, aligned with DEA-C01 best practices.
