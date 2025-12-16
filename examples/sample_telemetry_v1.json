@@ -1,0 +1,7 @@
+{
+  "deviceId": "device-0001",
+  "timestamp": "2024-12-16T10:30:00Z",
+  "temperature": 22.5,
+  "humidity": 65.3,
+  "pressure": 1013.2
+}
